@@ -1,0 +1,3 @@
+Sitemap: https://sethchurch.dev/sitemap.xml
+User-Agent: *
+Allow: /
