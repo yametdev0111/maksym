@@ -2,9 +2,6 @@
 
 Hey there! This is the repository for my personal portfolio website.  I developed this using Nuxt.JS, Three.JS, and Sass. Feel free to drop by the link below to check out the full site!
 
-### *Live site link: https://sethchurch.dev/*
-
-
 ## Images of Project
 ---
 
