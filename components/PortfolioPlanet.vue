@@ -17,7 +17,7 @@
 
             <p class="portfolio-planet__desc">{{ desc }}</p>
 
-            <a target="_blank" :href="gitLink"><button class="portfolio-planet__btn btn--blue btn--rounded">View Project</button></a>
+            <!-- <a target="_blank" :href="gitLink"><button class="portfolio-planet__btn btn--blue btn--rounded">View Project</button></a> -->
         </div>
 
     </div>
